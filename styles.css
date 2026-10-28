@@ -4,20 +4,20 @@ body {
 }
 
 .Yolosoy {
-    background-image: url('');
+    background-image: url('https://storage.ko-fi.com/cdn/useruploads/display/c557a8e5-7971-49a3-acf5-51f0ad4756f5_file_0000000096988230abc270a99b1688be.png');
     background-repeat: no-repeat;
-    height: 875px;
+    height: 99vh;
     background-size: cover;
 }
 
 .here {
     height: 50px;
     width: 75px;
-    transform: translate(655px, 250px);
+    transform: translate(35vw, 60vh);
 }
 
 .there {
     height: 50px;
     width: 75px;
-    transform: translate(560px, 320px);
-}  
+    transform: translate(65vw, 60vh);
+}
