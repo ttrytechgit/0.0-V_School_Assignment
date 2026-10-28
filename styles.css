@@ -1,0 +1,23 @@
+body {
+    background-color: lightblue;
+    color: black;
+}
+
+.Yolosoy {
+    background-image: url('');
+    background-repeat: no-repeat;
+    height: 875px;
+    background-size: cover;
+}
+
+.here {
+    height: 50px;
+    width: 75px;
+    transform: translate(655px, 250px);
+}
+
+.there {
+    height: 50px;
+    width: 75px;
+    transform: translate(560px, 320px);
+}  
