@@ -6,8 +6,8 @@ body {
 .Yolosoy {
     background-image: url('https://storage.ko-fi.com/cdn/useruploads/display/c557a8e5-7971-49a3-acf5-51f0ad4756f5_file_0000000096988230abc270a99b1688be.png');
     background-repeat: no-repeat;
-    height: 99vh;
     background-size: cover;
+    height: 99vh;
 }
 
 .here {
@@ -20,4 +20,9 @@ body {
     height: 50px;
     width: 75px;
     transform: translate(65vw, 60vh);
+}
+
+footer img {
+    height: 35px;
+    width: 35px
 }
